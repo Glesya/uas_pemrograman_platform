@@ -5,8 +5,8 @@
     ],
     "swagger": "2.0",
     "info": {
-        "description": "API CRUD dengan menggunakan bahasa GO",
-        "title": "UAS Pemrograman Berbasis Platform API",
+        "description": "Documentation",
+        "title": "UAS Pemrograman Platform",
         "contact": {},
         "version": "1.0"
     },

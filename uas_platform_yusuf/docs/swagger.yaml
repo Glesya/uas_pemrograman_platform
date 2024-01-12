@@ -23,8 +23,8 @@ definitions:
 host: localhost:8080
 info:
   contact: {}
-  description: API CRUD dengan menggunakan bahasa GO
-  title: UAS Pemrograman Berbasis Platform API
+  description: Documentation
+  title: UAS Pemrograman Platform
   version: "1.0"
 paths:
   /api/login:
